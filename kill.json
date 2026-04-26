@@ -1,0 +1,16 @@
+{
+  "killed": true,
+  "blocked_machines": [],
+  "min_version": "1.0.0",
+  "latest_version": "1.0.0",
+  "download_url": "https://skyied.com/baccarat/Baccarat_1.0.0_x64-setup.exe",
+  "monitored_machines": [
+    {
+      "id": "example_machine_id_here",
+      "start_date": "2026-04-25",
+      "end_date": "2026-05-02",
+      "note": "BOB"
+    }
+  ],
+  "signed_at": 1777204143
+}
